@@ -1,0 +1,14 @@
+name: pymc3
+channels:
+  - plotly
+  - conda-forge
+  - default
+dependencies:
+  - python=3.9
+  - pymc3
+  - jupyterlab
+  - seaborn
+  - plotly
+  - pip
+  - pip:
+    - nb_black
