@@ -9,6 +9,7 @@ dependencies:
   - jupyterlab
   - seaborn
   - plotly
+  - chart-studio
   - pip
   - pip:
     - nb_black
